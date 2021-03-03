@@ -1,0 +1,30 @@
+{
+  "name": "generator-express-no-stress",
+  "version": "10.2.6",
+  "description": "Awesome APIs with ExpressJS and OpenAPI 3 (or Swagger 2): Features automatic request/resopnse validation, interactive api doc, and more.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carmine DiMascio <cdimascio@gmail.com> (https://github.com/cdimascio)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdimascio/generator-express-no-stress"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "express",
+    "generator",
+    "yeoman-generator",
+    "structured-logging",
+    "12-factor-apps",
+    "babel",
+    "yarn",
+    "swagger",
+    "rest"
+  ]
+}
